@@ -2,6 +2,8 @@
 
 ##### "Compite por ser el mejor #Supermaratonero"
 
+![screenshot](https://raw.githubusercontent.com/PazAutumn/hackathon-1/master/assets/img/Screenshot-2018-3-25%20%23SuperMaratoneros.png)
+
 ### ¿Qué es un Supermaratonero?
 
 Supermaratonero (s.)
