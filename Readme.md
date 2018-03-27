@@ -6,7 +6,7 @@ Prototipo de red Social para amantes de las series y adictos a las maratones. É
 
 ## Proyecto desarrollado en [Laboratoria](http://laboratoria.la)
 
-![icon](public/favicon.ico)
+![icon](favicon.ico)
 
 ## En [Chile](http://chile.com)
 
