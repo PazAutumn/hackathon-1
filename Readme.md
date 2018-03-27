@@ -66,7 +66,7 @@ Reta a tus amigos y alcanza el primer lugar del ranking. Presume tus logros en r
 
 + En la última sección se encuentra el ránking de los primeros lugares de los mejores maratoneros.
 
-+ En la última sección se agregó un footer con las redes sociales a las que se puede ingresar, también desde footer se puede contactar con el equipo soporte de la web, además de saber sobre nosotros como sitio web de #Supermaratoneros y por último nos permite interactucar con las otras secciones a traves de links.
++ En la última sección se agregó un footer con las redes sociales a las que se puede ingresar, también desde footer se puede contactar con el equipo soporte de la web, además de saber sobre nosotros como sitio web de Supermaratoneros y por último nos permite interactuar con las otras secciones a traves de links.
 
 
 ### Considerar en profile.html: 
