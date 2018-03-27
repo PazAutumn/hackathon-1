@@ -102,3 +102,9 @@ Reta a tus amigos y alcanza el primer lugar del ranking. Presume tus logros en r
 [visita nuestra página](https://macamarambio.github.io/hackathon-1/)
 
 #### #Supermaratoneros versión `0.0.1`
+
+
+![icon](public/favicon.ico)
+
+## En [Chile](http://chile.com)
+
