@@ -1,8 +1,14 @@
-# #Supermaratoneros
+# Supermaratoneros
+
+Prototipo de red Social para amantes de las series y adictos a las maratones. Ésta plataforma te permite crear tu propio perfil, en donde podrás ver y registrar tus series, cuanto tiempo demoraste en verlas, desbloquear nuevos capitulos y ganar premios.  Reta a tus amigos y alcanza el primer lugar del ranking.
 
 ![screenshot](https://raw.githubusercontent.com/PazAutumn/hackathon-1/master/assets/img/Screenshot-2018-3-25%20%23SuperMaratoneros.png)
 
 ## Proyecto desarrollado en [Laboratoria](http://laboratoria.la)
+
+![icon](public/favicon.ico)
+
+## En [Chile](http://chile.com)
 
 ##### "Compite por ser el mejor #Supermaratonero"
 
@@ -102,9 +108,4 @@ Reta a tus amigos y alcanza el primer lugar del ranking. Presume tus logros en r
 [visita nuestra página](https://macamarambio.github.io/hackathon-1/)
 
 #### #Supermaratoneros versión `0.0.1`
-
-
-![icon](public/favicon.ico)
-
-## En [Chile](http://chile.com)
 
