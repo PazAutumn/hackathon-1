@@ -27,7 +27,7 @@ Actualmente 8.4 millones de personas en el mundo cumplen con este perfil, no exi
 
 Ésta plataforma te permite crear tu propio perfil, en donde podrás ver y registrar tus series, cuanto tiempo demoraste en verlas, desbloquear nuevos capitulos y ganar premios.
 
-Reta a tus amigos y alcanza el primer lugar del ranking. Presume tus logros en redes sociales y demuestra que eres el ¡#SuperMaratonero número #1!
+Reta a tus amigos y alcanza el primer lugar del ranking. Presume tus logros en redes sociales y demuestra que eres el ¡SuperMaratonero número #1!
 
  ### Equipo
 
